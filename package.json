@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/MariemMkadem/proshop#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "express": "^4.18.1"
   },
   "devDependencies": {
